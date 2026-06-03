@@ -4,7 +4,6 @@
 
 [![CI](https://github.com/YOUR_USERNAME/agentmesh/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/agentmesh/actions)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 AgentMesh lets you register independent AI agents via URL endpoints and orchestrate them through a single runtime — with semantic intent routing, standardised A2A inter-agent messaging, and MCP tool integration.
 
